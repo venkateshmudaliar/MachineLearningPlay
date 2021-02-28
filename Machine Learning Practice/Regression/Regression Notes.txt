@@ -1,0 +1,5 @@
+Support Vector Linear Regression:
+- SVR gives us the flexibility to define how much error is acceptable in our model and will find an appropriate line (or hyperplane in higher dimensions) to fit the data
+- Minimize coefficient rather than Error
+- Error is handled by max error boundary set.
+- Max Error can be tuned for accuracy
